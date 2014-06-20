@@ -5,8 +5,8 @@ Homepage:            https://github.com/scotty-web/scotty
 Bug-reports:         https://github.com/scotty-web/scotty/issues
 License:             BSD3
 License-file:        LICENSE
-Author:              Andrew Farmer <afarmer@ittc.ku.edu>
-Maintainer:          Andrew Farmer <afarmer@ittc.ku.edu>
+Author:              gogotanaka, mdaisuke
+Maintainer:          gogotanaka, mdaisuke
 Copyright:           (c) 2012-2014 Andrew Farmer
 Category:            Web
 Stability:           experimental
